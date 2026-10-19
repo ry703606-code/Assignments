@@ -1,10 +1,11 @@
-Assignment 6.3 — Overflow & Layout Fixing
-Kya banana hai: Ek scrollable content box aur ek fixed-size container.
+name=Assignment-6.3.md
+Assignment 6.3 — Overflow & Layout Fixing[cite: 28]
+What to build: A scrollable content box and a fixed-size container[cite: 28].
 Steps:
 
-1. Ek container banao jiski height fixed ho.
-2. Uske andar itna text add karo ki content container se bahar nikalne lage.
-3. overflow: visible, hidden, auto aur scroll test karo.
-4. Ek second container mein overflow: auto use karo.
-5. Ek sample page mein overflow issue identify karke fix karo.
-   Submission: Har overflow value ka example aur fixed layout ka screenshot.
+1. Create a container with a fixed height[cite: 28].
+2. Add enough text inside it so that the content overflows the container[cite: 28].
+3. Test `overflow: visible`, `hidden`, `auto`, and `scroll`[cite: 28].
+4. Use `overflow: auto` in a second container[cite: 28].
+5. Identify and fix an overflow issue in a sample page[cite: 28].
+Submission: An example of each overflow value and a screenshot of the fixed layout[cite: 28].

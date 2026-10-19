@@ -1,17 +1,17 @@
-Assignment 7.5 — Flexbox Mini-Project
-Kya banana hai: Ek complete responsive landing page.
+name=Assignment-7.5.md
+Assignment 7.5 — Flexbox Mini-Project[cite: 35]
+What to build: A complete responsive landing page[cite: 35].
 Required sections:
+- Navigation bar[cite: 35]
+- Hero section[cite: 35]
+- 3 feature cards[cite: 35]
+- Call-to-action section[cite: 35]
+- Footer[cite: 35]
+Rules:
 
-- Navigation bar
-- Hero section
-- 3 feature cards
-- Call-to-action section
-- Footer
-  Rules:
-
-1. Navbar aur hero layout mein Flexbox use karo.
-2. Feature cards ko responsive row mein arrange karo.
-3. gap, justify-content, align-items aur flex-wrap use karo.
-4. Colors, typography aur spacing consistent rakho.
-5. Smaller screens par content overflow nahi hona chahiye.
-   Submission: Complete landing page, HTML/CSS files aur GitHub repository link.
+1. Use Flexbox in the navbar and hero layout[cite: 35].
+2. Arrange feature cards in a responsive row[cite: 35].
+3. Use `gap`, `justify-content`, `align-items`, and `flex-wrap`[cite: 35].
+4. Keep colors, typography, and spacing consistent[cite: 35].
+5. Content should not overflow on smaller screens[cite: 35].
+Submission: Complete landing page, HTML/CSS files, and a GitHub repository link[cite: 35].

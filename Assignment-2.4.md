@@ -1,10 +1,11 @@
-Assignment 2.4 — HTML Validation & Debugging
-Task: Ek jaanbujhkar buggy HTML file ko debug karna hai.
-Kya karna hai:
+name=Assignment-2.4.md
+Assignment 2.4 — HTML Validation & Debugging[cite: 9]
+Task: Debug a intentionally buggy HTML file.[cite: 9]
+What to do:
 
-1. Missing closing tags, incorrect nesting aur missing attributes wali sample HTML file lo.
-2. Errors ko identify karo.
-3. Browser ke DevTools ke Elements panel mein inspect karo.
-4. HTML validation tool se markup check karo.
-5. Saare errors fix karke code ko properly indent karo.
-   Submission: Before-and-after code aur fixed webpage ka screenshot.
+1. Take a sample HTML file containing missing closing tags, incorrect nesting, and missing attributes.[cite: 9]
+2. Identify the errors.[cite: 9]
+3. Inspect using the Elements panel in browser DevTools.[cite: 9]
+4. Check the markup using an HTML validation tool.[cite: 9]
+5. Fix all errors and properly indent the code.[cite: 9]
+Submission: Before-and-after code and a screenshot of the fixed webpage.[cite: 9]

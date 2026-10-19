@@ -1,18 +1,18 @@
-Assignment 2.5 — HTML Foundations Mini-Project
-Task: Ek complete personal introduction webpage scratch se banana hai.
+name=Assignment-2.5.md
+Assignment 2.5 — HTML Foundations Mini-Project[cite: 10]
+Task: Build a complete personal introduction webpage from scratch.[cite: 10]
 Required sections:
+- Page title and heading[cite: 10]
+- About Me[cite: 10]
+- Education[cite: 10]
+- Technical Skills[cite: 10]
+- Hobbies[cite: 10]
+- Contact Information[cite: 10]
+Rules:
 
-- Page title and heading
-- About Me
-- Education
-- Technical Skills
-- Hobbies
-- Contact Information
-  Rules:
-
-1. Sirf HTML use karna hai; CSS ki zaroorat nahi.
-2. Correct document structure aur semantic headings use karo.
-3. Sections ko clean order mein arrange karo.
-4. HTML file ko index.html naam se save karo.
-5. Final code ko Git repository mein commit karo.
-   Submission: Complete personal introduction webpage, HTML file aur GitHub link.
+1. Use only HTML; CSS is not required.[cite: 10]
+2. Use correct document structure and semantic headings.[cite: 10]
+3. Arrange sections in a clean order.[cite: 10]
+4. Save the HTML file named `index.html`.[cite: 10]
+5. Commit the final code to a Git repository.[cite: 10]
+Submission: The complete personal introduction webpage, HTML file, and GitHub link.[cite: 10]

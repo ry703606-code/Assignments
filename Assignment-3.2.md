@@ -1,11 +1,12 @@
-Assignment 3.2 — Images in HTML
-Kya banana hai: Apne portfolio page par images ka section.
+name=Assignment-3.2.md
+Assignment 3.2 — Images in HTML[cite: 12]
+What to build: An images section on your portfolio page.[cite: 12]
 Steps:
 
-1. Project mein images naam ka folder banao.
-2. Kam se kam 3 images add karo.
-3. <img> tag mein src, alt, width aur zaroorat ke according height use karo.
-4. Image paths ko sahi rakho.
-5. Har image ke liye meaningful alt text likho.
-6. Check karo ki images browser mein properly load ho rahi hain.
-   Submission: Portfolio page aur images folder. Har image ka meaningful alt text hona chahiye.
+1. Create a folder named `images` in your project.[cite: 12]
+2. Add at least 3 images.[cite: 12]
+3. Use `src`, `alt`, `width`, and height as required in the `<img>` tag.[cite: 12]
+4. Keep image paths correct.[cite: 12]
+5. Write a meaningful alt text for each image.[cite: 12]
+6. Check that images are loading properly in the browser.[cite: 12]
+Submission: Portfolio page and the images folder. Each image must have a meaningful alt text.[cite: 12]

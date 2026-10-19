@@ -1,18 +1,18 @@
-Assignment 8.5 — CSS Grid Mini-Project
-Kya banana hai: Ek complete photo-gallery website ya dashboard page.
+name=Assignment-8.5.md
+Assignment 8.5 — CSS Grid Mini-Project[cite: 40]
+What to build: A complete photo-gallery website or dashboard page[cite: 40].
 Required features:
+- Header[cite: 40]
+- Main grid layout[cite: 40]
+- Multiple cards/images[cite: 40]
+- Consistent gaps[cite: 40]
+- Responsive columns[cite: 40]
+- Footer[cite: 40]
+Rules:
 
-- Header
-- Main grid layout
-- Multiple cards/images
-- Consistent gaps
-- Responsive columns
-- Footer
-  Rules:
-
-1. Primary layout ke liye CSS Grid use karo.
-2. repeat(), minmax() aur fr units use karo.
-3. Named grid areas ya explicit grid placement demonstrate karo.
-4. Images aur text ko overflow se bachao.
-5. Different screen widths par test karo.
-   Submission: Complete Grid-based project, HTML/CSS files aur GitHub link.
+1. Use CSS Grid for the primary layout[cite: 40].
+2. Use `repeat()`, `minmax()`, and `fr` units[cite: 40].
+3. Demonstrate named grid areas or explicit grid placement[cite: 40].
+4. Prevent overflow in images and text[cite: 40].
+5. Test on different screen widths[cite: 40].
+Submission: Complete Grid-based project, HTML/CSS files, and a GitHub link[cite: 40].

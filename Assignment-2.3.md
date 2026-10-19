@@ -1,11 +1,12 @@
-Assignment 2.3 — Div, Attributes & Clean Structure
-Task: Pichhle introduction page ko clean aur structured HTML mein convert karna hai.
-Kya karna hai:
+name=Assignment-2.3.md
+Assignment 2.3 — Div, Attributes & Clean Structure[cite: 8]
+Task: Convert the previous introduction page into clean and structured HTML.[cite: 8]
+What to do:
 
-1. Page ko Header, About, Education, Skills aur Contact sections mein divide karo.
-2. Containers ke liye div use karo.
-3. Elements ko unique id aur reusable class attributes do.
-4. Kisi element par data-\* custom attribute add karo.
-5. Ek text element ko update karke naya content add karo.
-6. HTML code ko proper indentation aur meaningful names ke saath organize karo.
-   Submission: Updated HTML file aur screenshot showing page structure.
+1. Divide the page into Header, About, Education, Skills, and Contact sections.[cite: 8]
+2. Use `div` for containers.[cite: 8]
+3. Give elements unique `id` and reusable `class` attributes.[cite: 8]
+4. Add a `data-*` custom attribute to any element.[cite: 8]
+5. Update a text element and add new content.[cite: 8]
+6. Organize the HTML code with proper indentation and meaningful names.[cite: 8]
+Submission: The updated HTML file and a screenshot showing the page structure.[cite: 8]

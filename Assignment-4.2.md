@@ -1,19 +1,19 @@
-Assignment 4.2 — Job Application Form
-Kya banana hai: Ek job application form jisme different input types use hon.
+name=Assignment-4.2.md
+Assignment 4.2 — Job Application Form[cite: 17]
+What to build: A job application form using different input types.[cite: 17]
 Required fields:
 
-1. Full name, email aur phone.
-2. Date of birth ke liye date input.
-3. Portfolio URL ke liye URL input.
-4. Gender ya preferred shift ke liye radio buttons.
-5. Skills ke liye checkboxes.
-6. Qualification ya job role ke liye dropdown.
-7. Cover letter ke liye <textarea>.
-8. Submit button.
-   Rules:
-
-- Har field ka label hona chahiye.
-- Appropriate fields ko required banao.
-- Ek disabled field ka example bhi add karo.
-- Radio buttons mein related options ka same name rakho.
-  Submission: Complete job application form aur screenshot.
+1. Full name, email, and phone.[cite: 17]
+2. Date input for date of birth.[cite: 17]
+3. URL input for portfolio URL.[cite: 17]
+4. Radio buttons for gender or preferred shift.[cite: 17]
+5. Checkboxes for skills.[cite: 17]
+6. Dropdown for qualification or job role.[cite: 17]
+7. `<textarea>` for cover letter.[cite: 17]
+8. Submit button.[cite: 17]
+Rules:
+- Every field must have a label.[cite: 17]
+- Make appropriate fields required.[cite: 17]
+- Add an example of a disabled field as well.[cite: 17]
+- Keep the same name for related options in radio buttons.[cite: 17]
+Submission: Complete job application form and screenshot.[cite: 17]

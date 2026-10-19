@@ -1,11 +1,12 @@
-Assignment 8.4 — Dashboard with Grid and Flexbox
-Kya banana hai: Ek dashboard jisme outer layout Grid aur inner cards Flexbox se bane hon.
+name=Assignment-8.4.md
+Assignment 8.4 — Dashboard with Grid and Flexbox[cite: 39]
+What to build: A dashboard with an outer Grid layout and inner Flexbox cards[cite: 39].
 Steps:
 
-1. Dashboard mein header, sidebar aur main content banao.
-2. Outer page ke liye CSS Grid use karo.
-3. Main area mein 4 statistic cards add karo.
-4. Cards ke andar icon, title aur number ko Flexbox se align karo.
-5. Ek small table ya recent activity section add karo.
-6. DevTools ke Grid inspector se layout check karo.
-   Submission: Complete dashboard page aur CSS code showing both Grid and Flexbox.
+1. Create a header, sidebar, and main content in the dashboard[cite: 39].
+2. Use CSS Grid for the outer page[cite: 39].
+3. Add 4 statistic cards in the main area[cite: 39].
+4. Align icons, titles, and numbers inside the cards using Flexbox[cite: 39].
+5. Add a small table or recent activity section[cite: 39].
+6. Check the layout using the DevTools Grid inspector[cite: 39].
+Submission: Complete dashboard page and CSS code showing both Grid and Flexbox[cite: 39].

@@ -1,11 +1,12 @@
-Assignment 5.4 — CSS Variables & Design Tokens
-Kya banana hai: Reusable colors aur spacing variables ke saath ek small design system.
+name=Assignment-5.4.md
+Assignment 5.4 — CSS Variables & Design Tokens[cite: 24]
+What to build: A small design system with reusable colors and spacing variables[cite: 24].
 Steps:
 
-1. :root mein CSS variables define karo.
-2. Primary color, secondary color, background color aur text color set karo.
-3. Small, medium aur large spacing variables define karo.
-4. Font-size variables create karo.
-5. Buttons, headings aur cards mein variables use karo.
-6. Ek variable change karke verify karo ki multiple elements update hote hain.
-   Submission: Design-token stylesheet aur ek sample webpage using these variables.
+1. Define CSS variables in `:root`[cite: 24].
+2. Set primary color, secondary color, background color, and text color[cite: 24].
+3. Define small, medium, and large spacing variables[cite: 24].
+4. Create font-size variables[cite: 24].
+5. Use variables in buttons, headings, and cards[cite: 24].
+6. Change a variable and verify that multiple elements update[cite: 24].
+Submission: Design-token stylesheet and a sample webpage using these variables[cite: 24].

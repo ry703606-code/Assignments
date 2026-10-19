@@ -1,12 +1,13 @@
-Assignment 9.2 — Responsive Typography & Images
-Kya banana hai: Ek webpage jisme text aur images different screen sizes par properly adjust hon.
+name=Assignment-9.2.md
+Assignment 9.2 — Responsive Typography & Images[cite: 42]
+What to build: A webpage where text and images adjust properly across different screen sizes[cite: 42].
 Steps:
 
-1. Ek article ya portfolio page banao.
-2. Heading, paragraph aur images add karo.
-3. Font sizes ke liye rem, em ya clamp() ka use karo.
-4. Images par max-width: 100% aur height: auto apply karo.
-5. Content container par suitable max-width set karo.
-6. Line length aur spacing ko mobile aur desktop ke liye improve karo.
-7. Check karo ki images stretch na hon aur text screen se bahar na nikle.
-   Submission: Responsive webpage aur mobile/desktop screenshots.
+1. Create an article or portfolio page[cite: 42].
+2. Add headings, paragraphs, and images[cite: 42].
+3. Use `rem`, `em`, or `clamp()` for font sizes[cite: 42].
+4. Apply `max-width: 100%` and `height: auto` to images[cite: 42].
+5. Set a suitable `max-width` on the content container[cite: 42].
+6. Improve line length and spacing for mobile and desktop[cite: 42].
+7. Check that images do not stretch and text does not overflow the screen[cite: 42].
+Submission: Responsive webpage and mobile/desktop screenshots[cite: 42].

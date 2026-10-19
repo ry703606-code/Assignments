@@ -1,12 +1,13 @@
-Assignment 5.5 — CSS Fundamentals Mini-Project
-Kya banana hai: Week 4 ki multi-page college club website ko style karna hai.
+name=Assignment-5.5.md
+Assignment 5.5 — CSS Fundamentals Mini-Project[cite: 25]
+What to build: Style the multi-page college club website from Week 4[cite: 25].
 Steps:
 
-1. External CSS use karo.
-2. Consistent color palette aur typography choose karo.
-3. Navigation, headings, paragraphs aur buttons style karo.
-4. Forms aur tables ko readable banao.
-5. CSS selectors aur variables ka use karo.
-6. DevTools se styling issues debug karo.
-7. CSS ko clean aur reusable rakho.
-   Submission: Styled multi-page website, all CSS files aur 4–5 lines mein design choices ki explanation.
+1. Use external CSS[cite: 25].
+2. Choose a consistent color palette and typography[cite: 25].
+3. Style navigation, headings, paragraphs, and buttons[cite: 25].
+4. Make forms and tables readable[cite: 25].
+5. Use CSS selectors and variables[cite: 25].
+6. Debug styling issues using DevTools[cite: 25].
+7. Keep CSS clean and reusable[cite: 25].
+Submission: Styled multi-page website, all CSS files, and a 4–5 line explanation of design choices[cite: 25].

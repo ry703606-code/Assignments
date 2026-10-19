@@ -1,12 +1,13 @@
-Assignment 2.2 — Personal Introduction Page
-Task: Apna introduction dene wala resume-style webpage banana hai.
-Kya karna hai:
+name=Assignment-2.2.md
+Assignment 2.2 — Personal Introduction Page[cite: 7]
+Task: Create a resume-style webpage to introduce yourself.[cite: 7]
+What to do:
 
-1. Apna naam main heading mein likho.
-2. About Me section mein introduction paragraph likho.
-3. Education, skills aur hobbies ke sections banao.
-4. h1 se h6 headings ko appropriate jagah use karo.
-5. Paragraphs ke liye p, line break ke liye br aur separator ke liye hr use karo.
-6. Important text ke liye strong, em aur i use karo.
-7. Related content ko div aur inline content ko span mein organize karo.
-   Submission: Personal introduction webpage aur uska HTML code.
+1. Write your name in the main heading.[cite: 7]
+2. Write an introduction paragraph in the About Me section.[cite: 7]
+3. Create sections for education, skills, and hobbies.[cite: 7]
+4. Use `h1` to `h6` headings in appropriate places.[cite: 7]
+5. Use `p` for paragraphs, `br` for line breaks, and `hr` for separators.[cite: 7]
+6. Use `strong`, `em`, and `i` for important text.[cite: 7]
+7. Organize related content using `div` and inline content using `span`.[cite: 7]
+Submission: The personal introduction webpage and its HTML code.[cite: 7]
